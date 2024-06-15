@@ -15,7 +15,11 @@ export const Home = () => {
                     subtext="Acess and manage your account and transactions efficiently."
                     />
 
-                    <TotalBalanceBox />
+                    <TotalBalanceBox 
+                        accounts={[]}
+                        totalBancks={1}
+                        totalCurrentBalancce={1250.35}
+                    />
                 </header>
             </div>
         </section>
