@@ -17,8 +17,8 @@ export const Home = () => {
 
                     <TotalBalanceBox 
                         accounts={[]}
-                        totalBancks={1}
-                        totalCurrentBalancce={1250.35}
+                        totalBanks={1}
+                        totalCurrentBalance={1250.35}
                     />
                 </header>
             </div>
